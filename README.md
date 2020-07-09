@@ -7,7 +7,7 @@ Skin modification for tier 10 cruiser **Zao**.
 Presented by SEA group
 
 ## Installation
-* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]res_mods/[version number]/`
+* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods/[version number]/`
 * **For Steam users**, copy `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
 ## 使用方法
